@@ -287,7 +287,7 @@ project/
 |------|--------|---------------|
 | Sriram Kumar K | [@zerotwo1910](https://github.com/zerotwo1910) | Project coordination, Data preprocessing, Model optimization, GUI implementation, Documentation |
 | Subasree M | [@suba-sree](https://github.com/suba-sree) | Dataset acquisition, Exploratory analysis, Data visualization, Feature importance analysis |
-| Vanidha B | [@teammember3](https://github.com/teammember3) | Feature engineering, Model selection, Hyperparameter tuning, Performance metrics |
+| Vanidha B | [@vani282005](https://github.com/vani282005) | Feature engineering, Model selection, Hyperparameter tuning, Performance metrics |
 | Shanthini S | [@teammember4](https://github.com/teammember4) | Neural network implementation, Cross-validation, Testing procedures, GUI design |
 
 ## License
