@@ -3,6 +3,9 @@
 ![Heart Disease Prediction](https://img.shields.io/badge/Project-AI%20Healthcare-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
+[![CustomTkinter](https://img.shields.io/badge/Library-CustomTkinter-lightblue)](https://github.com/TomSchimansky/CustomTkinter)
+[![Machine Learning](https://img.shields.io/badge/Domain-Machine_Learning-blue)](https://en.wikipedia.org/wiki/Machine_learning)
+[![Data Science](https://img.shields.io/badge/Domain-Data_Science-blue)](https://en.wikipedia.org/wiki/Data_science)
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue)
 
 ## Overview
@@ -20,10 +23,10 @@ Heart disease remains the leading cause of death worldwide, with many cases goin
 
 ## Dataset
 The project uses the Heart Disease Dataset from Kaggle, containing 303 patient records with 13 clinical features:
-- Demographics: age, sex
-- Vital signs: resting blood pressure, cholesterol levels
-- ECG results: resting ECG, maximum heart rate
-- Exercise test results: exercise-induced angina, ST depression
+- Demographics: `age`, `sex`
+- Vital signs: `resting blood pressure`, `cholesterol levels`
+- ECG results: `resting ECG`, `maximum heart rate`
+- Exercise test results: `exercise-induced angina`, `ST depression`
 - And more health indicators
 
 ## Model Performance
@@ -75,12 +78,12 @@ The project uses the Heart Disease Dataset from Kaggle, containing 303 patient r
 
 ## Technologies Used
 - **Python 3.9**
-- **Data Processing**: pandas, numpy
-- **Visualization**: matplotlib, seaborn
-- **Machine Learning**: scikit-learn, xgboost
-- **Deep Learning**: tensorflow, keras
-- **GUI Development**: tkinter
-- **Model Serialization**: pickle
+- **Data Processing**: `pandas`, `numpy`
+- **Visualization**: `matplotlib`, `seaborn`
+- **Machine Learning**: `scikit-learn`, `xgboost`
+- **Deep Learning**: `tensorflow`, `keras`
+- **GUI Development**: `tkinter`
+- **Model Serialization**: `pickle`
 
 ## Installation & Usage
 
@@ -121,13 +124,14 @@ python AI-Powered_Healthcare_Disease_Prediction_System_(Final Draft).py
 
 ## Contributors
 - [Sriram Kumar K](https://github.com/zerotwo1910)
-- [Team Member 2](https://github.com/teammember2) (if applicable)
-- [Team Member 3](https://github.com/teammember3) (if applicable)
+- [Subasree M](https://github.com/teammember2) 
+- [Vanidha B](https://github.com/teammember3) 
+- [Shanthini S](https://github.com/teammember3) 
 
 ## License
 This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
 
 ## Acknowledgements
-- [Kaggle](https://www.kaggle.com) for providing the dataset
-- Sri Ramanujar Engineering College for project guidance
-- All libraries and tools used in this project
+- [Kaggle](https://www.kaggle.com) for providing the dataset.
+- Sri Ramanujar Engineering College for project guidance.
+- All libraries and tools used in this project.
