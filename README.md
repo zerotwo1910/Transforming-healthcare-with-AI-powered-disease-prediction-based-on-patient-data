@@ -90,6 +90,7 @@ git clone https://github.com/zerotwo1910/Transforming-healthcare-with-AI-powered
 
 # Navigate to project directory
 cd Main_Program
+
 # Install dependencies
 pip install -r requirements.txt
 
