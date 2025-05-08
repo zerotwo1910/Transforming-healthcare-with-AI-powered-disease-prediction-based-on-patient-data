@@ -5,8 +5,8 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
 [![CustomTkinter](https://img.shields.io/badge/Library-CustomTkinter-lightblue)](https://github.com/TomSchimansky/CustomTkinter)
 [![Machine Learning](https://img.shields.io/badge/Domain-Machine_Learning-blue)](https://en.wikipedia.org/wiki/Machine_learning)
-[![Data Science](https://img.shields.io/badge/Domain-Data_Science-blue)](https://en.wikipedia.org/wiki/Data_science)
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue)
+[![Final](https://img.shields.io/badge/Status-Final_Year_Project-green)](https://github.com/topics/final-year-project)
 
 ## Overview
 This project develops an AI-powered system for predicting heart disease using machine learning classification techniques. By analyzing patient clinical data, the system determines the presence or absence of heart disease, providing a valuable tool for early detection and diagnosis support.
