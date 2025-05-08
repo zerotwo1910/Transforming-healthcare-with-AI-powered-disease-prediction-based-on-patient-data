@@ -86,11 +86,10 @@ The project uses the Heart Disease Dataset from Kaggle, containing 303 patient r
 
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/heart-disease-prediction.git](https://github.com/zerotwo1910/Transforming-healthcare-with-AI-powered-disease-prediction-based-on-patient-data.git
+git clone https://github.com/zerotwo1910/Transforming-healthcare-with-AI-powered-disease-prediction-based-on-patient-data.git
 
 # Navigate to project directory
-cd Transforming-healthcare-with-AI-powered-disease-prediction-based-on-patient-data
-
+cd Main_Program
 # Install dependencies
 pip install -r requirements.txt
 
