@@ -130,15 +130,15 @@ graph TD
     B4 --> B5[Train-Test Split]
     end
     
-    subgraph Model Training
+    subgraph Model_Training
     E1[Logistic Regression] --> E4[Comparison]
     E2[Random Forest] --> E4
     E3[Gradient Boosting] --> E4
     E5[Neural Network] --> E4
     end
     
-    B --> Preprocessing
-    E --> Model Training
+    B -->|Preprocessing| B1
+    E -->|Model Training| E1
 ```
 
 ### Data Preprocessing Pipeline
@@ -285,7 +285,7 @@ project/
 
 | Name | GitHub | Contributions |
 |------|--------|---------------|
-| [Your Name] | [@yourusername](https://github.com/yourusername) | Project coordination, Data preprocessing, Model optimization, GUI implementation, Documentation |
+| Sriram Kumar K | [@zerotwo1910](https://github.com/zerotwo1910) | Project coordination, Data preprocessing, Model optimization, GUI implementation, Documentation |
 | Subasree M | [@teammember2](https://github.com/teammember2) | Dataset acquisition, Exploratory analysis, Data visualization, Feature importance analysis |
 | Vanidha B | [@teammember3](https://github.com/teammember3) | Feature engineering, Model selection, Hyperparameter tuning, Performance metrics |
 | Shanthini S | [@teammember4](https://github.com/teammember4) | Neural network implementation, Cross-validation, Testing procedures, GUI design |
@@ -309,7 +309,7 @@ If you use this project in your research or work, please cite:
 @software{heart_disease_prediction,
   author = {[Sriram Kumar K], [Subasree M], [Vanidha B], [Shanthini S]},
   title = {AI-Powered Heart Disease Prediction System},
-  url = {[Heart Disease](https://github.com/zerotwo1910/Transforming-healthcare-with-AI-powered-disease-prediction-based-on-patient-data.git)},
+  url = {https://github.com/zerotwo1910/Transforming-healthcare-with-AI-powered-disease-prediction-based-on-patient-data.git},
   version = {1.0.0},
   year = {2025},
 }
