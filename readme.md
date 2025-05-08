@@ -119,5 +119,5 @@ This project is licensed under the Apache License 2.0 - see the LICENSE file for
 
 ## Acknowledgements
 - [Kaggle](https://www.kaggle.com) for providing the dataset
-- [Your Institution Name] for project guidance
+- Sri Ramanujar Engineering College for project guidance
 - All libraries and tools used in this project
