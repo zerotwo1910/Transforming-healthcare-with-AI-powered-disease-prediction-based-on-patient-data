@@ -99,7 +99,17 @@ python AI-Powered_Healthcare_Disease_Prediction_System_(Final Draft).py
 ```
 
 ## Screenshots
-[Screenshots of GUI and visualizations will be added here]
+| Description | Screenshot |
+|-------------|------------|
+| Main Interface | ![Main Interface](Screenshots/main_interface.png) |
+| EDA Tab | ![EDA Tab](Screenshots/eda_tab.png) |
+| Preprocess & Data Modeling | ![Preprocess & Data Modeling](Screenshots/preprocess_and_datamodeling.png) |
+| ROC Visual | ![ROC Visual](Screenshots/roc_visualization.png) |
+| Confusion Matrix | ![Confusion Matrix](Screenshots/confusion_matrix.png) |
+| Correlation Matrix | ![Correlation Matrix](Screenshots/correlation_martix.png) |
+| Feature Importance | ![Feature Importance](Screenshots/feature_importance.png) |
+| Patient Distribution | ![Patient Distribution](Screenshots/patient_distribution.png) |
+| Manual Prediction | ![Manual Prediction](Screenshots/manual_prediction.png) |
 
 ## Future Work
 - Integration of additional clinical parameters
@@ -110,7 +120,7 @@ python AI-Powered_Healthcare_Disease_Prediction_System_(Final Draft).py
 - Real-time prediction capabilities
 
 ## Contributors
-- [Your Name](https://github.com/yourusername)
+- [Sriram Kumar K](https://github.com/zerotwo1910)
 - [Team Member 2](https://github.com/teammember2) (if applicable)
 - [Team Member 3](https://github.com/teammember3) (if applicable)
 
