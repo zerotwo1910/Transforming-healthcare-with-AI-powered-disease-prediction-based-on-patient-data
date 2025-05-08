@@ -1,4 +1,4 @@
-# Transforming-healthcare-with-AI-powered-disease-prediction-based-on-patient-dat
+# Transforming-Healthcare-with-AI-Powered-Disease-Prediction-Based-on-Patient-Data
 
 ![Heart Disease Prediction](https://img.shields.io/badge/Project-AI%20Healthcare-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
